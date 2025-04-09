@@ -1,4 +1,7 @@
-## Hi there 👋 I am Santhosh
+## Hi there 👋 It's me Santhosh
+
+Computer Science Student
+<img align="rigth" width"370 heigth="290" src="https://www.pinterest.com/pin/174021973096152945/">
 
 <!--
 **santhosh912003/santhosh912003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
