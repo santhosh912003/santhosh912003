@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Santhos
+## Hi there 👋 It's me Santhosh
 
 Computer Science Student
 Software developer Trainee 😊
